@@ -14,7 +14,9 @@ const noLog = {
   info: noop,
 };
 
-const internals = {};
+const internals = {
+  isEE: true,
+};
 const features = {
   bronze: [],
   silver: [],
