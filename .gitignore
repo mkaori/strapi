@@ -123,6 +123,9 @@ packages/strapi-generate-new/files/public/
 
 ############################
 # Example app
+packages/lecapi/package.json
+packages/lecapi/lib
+packages/lecapi/bin
 ############################
 
 .dev
